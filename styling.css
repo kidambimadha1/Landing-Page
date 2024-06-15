@@ -119,7 +119,8 @@ nav ul li a
 .Button:hover
 {
     /*this button has hoverable property*/
-    background-color: greenyellow;
+    /* changed the color to white */
+    background-color: rgb(242, 245, 237);
     color: black;
     font-weight: bold;
     opacity: 0.8;
